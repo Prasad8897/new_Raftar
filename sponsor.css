@@ -1,0 +1,13 @@
+body{
+	background: white;
+	color: black;
+}
+center{
+	font-size: 50px;
+}
+.navbarOptions li:hover{	
+	background: #74B314;
+	box-shadow: 0px 5px #CFEDA2;	
+	border-color: #74B314;
+	color: black;
+}
